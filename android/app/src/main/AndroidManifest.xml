@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.estelson.cotacao_bitcoin">
     <application
-        android:label="cotacao_bitcoin"
+        android:label="Cotação Bitcoin"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
