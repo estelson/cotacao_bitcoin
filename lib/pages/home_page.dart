@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+        // backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: const Text("Cotação Bitcoin"),
       ),
       body: const Center(
@@ -25,6 +25,6 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
-    );;
+    );
   }
 }
