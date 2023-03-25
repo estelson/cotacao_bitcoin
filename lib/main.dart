@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Cotação Bitcoin',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
+        primarySwatch: Colors.orange,
         // useMaterial3: true,
       ),
       home: const HomePage(),
